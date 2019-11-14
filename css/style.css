@@ -1,0 +1,18 @@
+.container{
+    /* display: inline; */
+    /* float: left; */
+    /* background-color: aqua; */
+}
+.header{
+    /* display: inline; */
+    float: left;
+}
+h1{
+    background-color: aqua;
+}
+.content1{
+    background-color: black;
+}
+#content2{
+    background-color: blue;
+}
